@@ -1,5 +1,5 @@
 # github.io
-<h3 align="center">Увлечённый фронтенд-разработчик из Индии</h3>
+<h3 align="center">Увлечённый разработчик</h3>
 
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
